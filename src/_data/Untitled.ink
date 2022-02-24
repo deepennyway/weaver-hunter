@@ -41,4 +41,5 @@ Then you see a Drigon!
 
 # IMAGE: /ink/Untitled/Drigon.png
 
+- Now would be a good time to run.
     -> END
