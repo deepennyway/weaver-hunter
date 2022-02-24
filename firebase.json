@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "weaver-hunter",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
